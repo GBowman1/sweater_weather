@@ -9,7 +9,7 @@ class BookWeather
 
   def format_forecast_current(data)
     {
-      temperature: data[:temp_f],
+      temperature: "#{data[:temp_f]} F",
       summary: data[:condition][:text]
     }
   end

@@ -1,8 +1,10 @@
 class ErrorSerializer
-  include FastJsonapi::ObjectSerializer
-  
-  attribute :error do |error|
-    error.message
-    error.status
+  def self.serialize(error)
+    {
+      error: {
+        message: error.message,
+        status: error.status
+      }
+    }
   end
 end

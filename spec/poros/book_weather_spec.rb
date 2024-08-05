@@ -17,7 +17,7 @@ RSpec.describe BookWeather do
   end
 
   it "can format forecast" do
-    expect(book_weather.forecast[:temperature]).to eq(94.7)
+    expect(book_weather.forecast[:temperature]).to eq("94.7 F")
     expect(book_weather.forecast[:summary]).to eq("Sunny")
   end
 
