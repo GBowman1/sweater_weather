@@ -203,9 +203,9 @@
         "lines": [
           1,
           1,
-          3,
-          3,
-          3,
+          4,
+          4,
+          4,
           null,
           null
         ]
@@ -314,23 +314,23 @@
           1,
           1,
           1,
-          4,
-          4,
-          4,
-          4,
+          5,
+          5,
+          5,
+          5,
           null,
           null,
           1,
           null,
-          4,
+          5,
           null,
           null,
           null,
           null,
           1,
-          4,
+          5,
           null,
-          8,
+          10,
           null,
           null,
           null,
@@ -341,7 +341,7 @@
       },
       "/Users/gbowman/turing_mod_3/sweater_weather/spec/poros/error_message_spec.rb": {
         "lines": [
-
+          1
         ]
       },
       "/Users/gbowman/turing_mod_3/sweater_weather/spec/poros/weather_spec.rb": {
@@ -509,6 +509,100 @@
           null
         ]
       },
+      "/Users/gbowman/turing_mod_3/sweater_weather/spec/serializers/book_serializer_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/gbowman/turing_mod_3/sweater_weather/app/serializers/book_serializer.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/gbowman/turing_mod_3/sweater_weather/spec/serializers/forecast_serializer_spec.rb": {
         "lines": [
           1,
@@ -631,6 +725,46 @@
           null
         ]
       },
+      "/Users/gbowman/turing_mod_3/sweater_weather/spec/services/book_service_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/gbowman/turing_mod_3/sweater_weather/app/services/book_service.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          null,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
       "/Users/gbowman/turing_mod_3/sweater_weather/spec/services/map_quest_service_spec.rb": {
         "lines": [
           1,
@@ -663,15 +797,15 @@
         "lines": [
           1,
           1,
-          4,
+          5,
           null,
           null,
           1,
-          4,
-          4,
-          4,
+          5,
+          5,
+          5,
           null,
-          4,
+          5,
           null,
           null
         ]
@@ -713,18 +847,18 @@
           1,
           null,
           1,
-          4,
-          4,
+          5,
+          5,
           null,
           null,
           null,
           1,
-          4,
-          4,
-          4,
-          4,
+          5,
+          5,
+          5,
+          5,
           null,
-          4,
+          5,
           null,
           null,
           null
@@ -748,8 +882,35 @@
           1,
           null
         ]
+      },
+      "/Users/gbowman/turing_mod_3/sweater_weather/app/controllers/api/v1/book_search_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/gbowman/turing_mod_3/sweater_weather/app/facades/book_facade.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1722874237
+    "timestamp": 1722875593
   }
 }
