@@ -1,10 +1,10 @@
 class BookWeather
-  attr_reader :forecast, :book_deatils, :total_books_found
-  def initialize(books, weather)
+  attr_reader :forecast, :books, :total_books_found, :destination
+  def initialize(books, weather, location)
     @forecast = format_forecast_current(weather[:current])
     @books = format_books(books[:docs])
     @total_books_found = books[:numFound]
-    @destination = @location
+    @destination = location
   end
 
   def format_forecast_current(data)

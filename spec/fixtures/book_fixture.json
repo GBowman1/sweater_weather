@@ -1,0 +1,555 @@
+{
+    "numFound": 2,
+    "start": 0,
+    "numFoundExact": true,
+    "docs": [
+        {
+            "author_key": [
+                "OL63235A"
+            ],
+            "author_name": [
+                "Gaeton Fonzi"
+            ],
+            "cover_edition_key": "OL1416667M",
+            "cover_i": 8548603,
+            "ddc": [
+                "364.15240973"
+            ],
+            "ebook_access": "printdisabled",
+            "ebook_count_i": 3,
+            "edition_count": 10,
+            "edition_key": [
+                "OL34002654M",
+                "OL30684753M",
+                "OL29423707M",
+                "OL28506907M",
+                "OL27440314M",
+                "OL27350011M",
+                "OL22300197M",
+                "OL94107M",
+                "OL21935088M",
+                "OL1416667M"
+            ],
+            "first_publish_year": 1993,
+            "format": [
+                "paperback"
+            ],
+            "has_fulltext": true,
+            "ia": [
+                "lastinvestigatio0000fonz_a5r0",
+                "lastinvestigatio0000fonz",
+                "lastinvestigatio0000fonz_b8a1"
+            ],
+            "ia_collection": [
+                "internetarchivebooks",
+                "kalamazoocollege-ol",
+                "printdisabled",
+                "udc-ol",
+                "universityofarizona-ol"
+            ],
+            "ia_collection_s": "internetarchivebooks;kalamazoocollege-ol;printdisabled;udc-ol;universityofarizona-ol",
+            "isbn": [
+                "1560250526",
+                "9781560250791",
+                "1626360782",
+                "1628734973",
+                "9781510713932",
+                "9780980121353",
+                "9781626360785",
+                "0980121353",
+                "9781510740327",
+                "151071393X",
+                "1560250798",
+                "9781560250524",
+                "9781628734973",
+                "9781510740358",
+                "1510740325",
+                "151074035X"
+            ],
+            "key": "/works/OL767424W",
+            "language": [
+                "eng"
+            ],
+            "last_modified_i": 1670565805,
+            "lcc": [
+                "E--0842.90000000.F56 1993",
+                "E--0842.90000000.F56 1994",
+                "E--0842.90000000.F56 2016",
+                "E--0842.90000000"
+            ],
+            "lccn": [
+                "99205269",
+                "93026231"
+            ],
+            "number_of_pages_median": 496,
+            "oclc": [
+                "944463533"
+            ],
+            "osp_count": 2,
+            "printdisabled_s": "OL27440314M;OL22300197M;OL1416667M",
+            "public_scan_b": false,
+            "publish_date": [
+                "Nov 13, 2018",
+                "1994",
+                "May 30, 2008",
+                "2013",
+                "1993",
+                "Nov 22, 2016",
+                "2018"
+            ],
+            "publish_place": [
+                "Emeryville, CA",
+                "New York"
+            ],
+            "publish_year": [
+                2016,
+                2018,
+                1993,
+                1994,
+                2008,
+                2013
+            ],
+            "publisher": [
+                "Brand: The Mary Ferrell Foundation",
+                "Skyhorse",
+                "Thunder's Mouth P.",
+                "Thunder's Mouth Press",
+                "The Mary Ferrell Foundation",
+                "Distributed by Publishers Group West",
+                "Skyhorse Publishing Company, Incorporated"
+            ],
+            "seed": [
+                "/books/OL34002654M",
+                "/books/OL30684753M",
+                "/books/OL29423707M",
+                "/books/OL28506907M",
+                "/books/OL27440314M",
+                "/books/OL27350011M",
+                "/books/OL22300197M",
+                "/books/OL94107M",
+                "/books/OL21935088M",
+                "/books/OL1416667M",
+                "/works/OL767424W",
+                "/authors/OL63235A",
+                "/subjects/united_states",
+                "/subjects/united_states._warren_commission",
+                "/subjects/assassination",
+                "/subjects/united_states._president's_commission_on_the_assassination_of_president_kennedy",
+                "/subjects/united_states_warren_commission",
+                "/subjects/kennedy_john_f._(john_fitzgerald)_1917-1963_assassination",
+                "/subjects/report_of_the_president's_commission_on_the_assassination_of_president_john_f._kennedy_(united_states._warren_commission)",
+                "/subjects/person:john_f._kennedy_(1917-1963)",
+                "/subjects/place:dallas",
+                "/subjects/place:tx",
+                "/subjects/place:dealey_plaza",
+                "/subjects/time:november_22",
+                "/subjects/time:1963",
+                "/subjects/time:dallas",
+                "/subjects/time:texas."
+            ],
+            "title": "The last investigation",
+            "title_suggest": "The last investigation",
+            "title_sort": "The last investigation",
+            "type": "work",
+            "id_amazon": [
+                "151071393X",
+                "1510740325"
+            ],
+            "id_goodreads": [
+                "1638932",
+                "1638932",
+                "1071152",
+                "1071152"
+            ],
+            "id_librarything": [
+                "1028924",
+                "1028924",
+                "1028924",
+                "1028924"
+            ],
+            "subject": [
+                "United States",
+                "United States. Warren Commission",
+                "Assassination",
+                "United States. President's Commission on the Assassination of President Kennedy",
+                "United states, warren commission",
+                "Kennedy, john f. (john fitzgerald), 1917-1963, assassination",
+                "Report of the President's Commission on the Assassination of President John F. Kennedy (United States. Warren Commission)"
+            ],
+            "place": [
+                "Dallas",
+                "TX",
+                "Dealey Plaza"
+            ],
+            "time": [
+                "November 22",
+                "1963",
+                "Dallas",
+                "Texas."
+            ],
+            "person": [
+                "John F. Kennedy (1917-1963)"
+            ],
+            "readinglog_count": 7,
+            "want_to_read_count": 7,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher_facet": [
+                "Brand: The Mary Ferrell Foundation",
+                "Distributed by Publishers Group West",
+                "Skyhorse",
+                "Skyhorse Publishing Company, Incorporated",
+                "The Mary Ferrell Foundation",
+                "Thunder's Mouth P.",
+                "Thunder's Mouth Press"
+            ],
+            "person_key": [
+                "john_f._kennedy_(1917-1963)"
+            ],
+            "time_facet": [
+                "1963",
+                "Dallas",
+                "November 22",
+                "Texas."
+            ],
+            "place_key": [
+                "dallas",
+                "dealey_plaza",
+                "tx"
+            ],
+            "person_facet": [
+                "John F. Kennedy (1917-1963)"
+            ],
+            "subject_facet": [
+                "Assassination",
+                "Kennedy, john f. (john fitzgerald), 1917-1963, assassination",
+                "Report of the President's Commission on the Assassination of President John F. Kennedy (United States. Warren Commission)",
+                "United States",
+                "United States. President's Commission on the Assassination of President Kennedy",
+                "United States. Warren Commission",
+                "United states, warren commission"
+            ],
+            "_version_": 1802052659022135296,
+            "place_facet": [
+                "Dallas",
+                "Dealey Plaza",
+                "TX"
+            ],
+            "lcc_sort": "E--0842.90000000.F56 1993",
+            "author_facet": [
+                "OL63235A Gaeton Fonzi"
+            ],
+            "subject_key": [
+                "assassination",
+                "kennedy_john_f._(john_fitzgerald)_1917-1963_assassination",
+                "report_of_the_president's_commission_on_the_assassination_of_president_john_f._kennedy_(united_states._warren_commission)",
+                "united_states",
+                "united_states._president's_commission_on_the_assassination_of_president_kennedy",
+                "united_states._warren_commission",
+                "united_states_warren_commission"
+            ],
+            "ddc_sort": "364.15240973",
+            "time_key": [
+                "1963",
+                "dallas",
+                "november_22",
+                "texas."
+            ]
+        },
+        {
+            "author_alternative_name": [
+                "Dorothy Lou Ledbetter",
+                "Dorothy Ledberrer Murray",
+                "Dorothy Leadbetter Murray",
+                "Nicholas R. Murray",
+                "Dorothy Ledbetter Murray, Dorothy Ledberrer Murray"
+            ],
+            "author_key": [
+                "OL987399A",
+                "OL7169059A"
+            ],
+            "author_name": [
+                "Nicholas Russell Murray",
+                "Dorothy Ledbetter Murray"
+            ],
+            "cover_edition_key": "OL24640128M",
+            "cover_i": 6738593,
+            "ebook_access": "no_ebook",
+            "ebook_count_i": 0,
+            "edition_count": 1,
+            "edition_key": [
+                "OL24640128M"
+            ],
+            "first_publish_year": 1983,
+            "format": [
+                "soft cover, indexed genealogical marriage data"
+            ],
+            "has_fulltext": false,
+            "key": "/works/OL15720178W",
+            "language": [
+                "eng"
+            ],
+            "last_modified_i": 1513747479,
+            "public_scan_b": false,
+            "publish_date": [
+                "first edition-1983, second edition-2013"
+            ],
+            "publish_place": [
+                "3878 W  3200 S, Salt Lake City, UT 84120-2154 USA  ph.801-966-1611  huntingforbears@yahoo.com (First published 1986 in Hammond, LA USA)"
+            ],
+            "publish_year": [
+                1983
+            ],
+            "publisher": [
+                "Hunting For Bears Genealogical Society and Library"
+            ],
+            "seed": [
+                "/books/OL24640128M",
+                "/works/OL15720178W",
+                "/authors/OL987399A",
+                "/authors/OL7169059A",
+                "/subjects/hfb",
+                "/subjects/hfbtx",
+                "/subjects/texas_marriage_records",
+                "/subjects/tx_marriage_records",
+                "/subjects/marriage_records",
+                "/subjects/texas_genealogy",
+                "/subjects/tx_genealogy",
+                "/subjects/texas_marriages",
+                "/subjects/tx_marriages",
+                "/subjects/texas_vital_records",
+                "/subjects/tx_vital_records",
+                "/subjects/vital_records",
+                "/subjects/texas_archives",
+                "/subjects/tx_archives",
+                "/subjects/southern_heritage",
+                "/subjects/texas_ancestry",
+                "/subjects/tx_ancestry",
+                "/subjects/marriage_records_of_texas",
+                "/subjects/marriage_records_of_tx",
+                "/subjects/texas_grooms",
+                "/subjects/texas_brides",
+                "/subjects/tx_grooms",
+                "/subjects/tx_brides",
+                "/subjects/place:dallas_county_texas_marriage_records",
+                "/subjects/place:dallas_county_tx_marriage_records",
+                "/subjects/place:dallas_county_(tex)_marriage_records",
+                "/subjects/place:dallas_co_texas_marriages",
+                "/subjects/place:dallas_co_tx_marriages",
+                "/subjects/place:dallas_co_(tex)_marriages",
+                "/subjects/place:*dallas_county_texas_vitals",
+                "/subjects/place:dallas_county_tx_vitals",
+                "/subjects/place:dallas_county_(tex)_vitals",
+                "/subjects/place:dallas_co_texas",
+                "/subjects/place:dallas_co_tx",
+                "/subjects/place:dallas_co_(tex)",
+                "/subjects/place:dallas_county_texas_marr",
+                "/subjects/place:dallas_county_tx_marr",
+                "/subjects/place:dallas_county_(tex)_marr",
+                "/subjects/place:early_dallas_co_texas_marriages",
+                "/subjects/place:early_dallas_co_tx_marriages",
+                "/subjects/place:early_dallas_co_(tex)_marriages",
+                "/subjects/place:dallas_county_texas_vital_records",
+                "/subjects/place:dallas_county_tx_vital_records",
+                "/subjects/place:dallas_county_(tex)_vital_records",
+                "/subjects/time:1875-1954",
+                "/subjects/time:1700s",
+                "/subjects/time:1800s",
+                "/subjects/time:19th_century",
+                "/subjects/time:pre_1900",
+                "/subjects/time:early",
+                "/subjects/time:pre_modern",
+                "/subjects/time:early_nineteenth_century_and_early_twentieth_century"
+            ],
+            "title": "Dallas County Texas Marriage Records 1875-1954",
+            "title_suggest": "Dallas County Texas Marriage Records 1875-1954",
+            "title_sort": "Dallas County Texas Marriage Records 1875-1954",
+            "type": "work",
+            "subject": [
+                "hfb",
+                "hfbtx",
+                "Texas Marriage Records",
+                "TX Marriage Records",
+                "Marriage Records",
+                "Texas Genealogy",
+                "TX Genealogy",
+                "Texas Marriages",
+                "TX Marriages",
+                "Texas vital records",
+                "TX vital records",
+                "vital records",
+                "Texas Archives",
+                "TX Archives",
+                "Southern Heritage",
+                "Texas Ancestry",
+                "TX Ancestry",
+                "Marriage Records of Texas",
+                "Marriage Records of TX",
+                "Texas Grooms",
+                "Texas Brides",
+                "TX Grooms",
+                "TX Brides"
+            ],
+            "place": [
+                "Dallas County Texas Marriage Records",
+                "Dallas County TX Marriage Records",
+                "Dallas County (Tex) Marriage Records",
+                "Dallas Co Texas Marriages",
+                "Dallas Co TX Marriages",
+                "Dallas Co (Tex) Marriages",
+                "*Dallas County Texas Vitals",
+                "Dallas County TX Vitals",
+                "Dallas County (Tex) Vitals",
+                "Dallas Co Texas",
+                "Dallas Co TX",
+                "Dallas Co (Tex)",
+                "Dallas County Texas Marr",
+                "Dallas County TX Marr",
+                "Dallas County (Tex) Marr",
+                "Early Dallas Co Texas Marriages",
+                "Early Dallas Co TX Marriages",
+                "Early Dallas Co (Tex) Marriages",
+                "Dallas County Texas Vital Records",
+                "Dallas County TX Vital Records",
+                "Dallas County (Tex) Vital Records"
+            ],
+            "time": [
+                "1875-1954",
+                "1700s",
+                "1800s",
+                "19th Century",
+                "pre 1900",
+                "Early",
+                "pre modern",
+                "Early Nineteenth Century and Early Twentieth Century"
+            ],
+            "publisher_facet": [
+                "Hunting For Bears Genealogical Society and Library"
+            ],
+            "time_facet": [
+                "1700s",
+                "1800s",
+                "1875-1954",
+                "19th Century",
+                "Early",
+                "Early Nineteenth Century and Early Twentieth Century",
+                "pre 1900",
+                "pre modern"
+            ],
+            "place_key": [
+                "*dallas_county_texas_vitals",
+                "dallas_co_(tex)",
+                "dallas_co_(tex)_marriages",
+                "dallas_co_texas",
+                "dallas_co_texas_marriages",
+                "dallas_co_tx",
+                "dallas_co_tx_marriages",
+                "dallas_county_(tex)_marr",
+                "dallas_county_(tex)_marriage_records",
+                "dallas_county_(tex)_vital_records",
+                "dallas_county_(tex)_vitals",
+                "dallas_county_texas_marr",
+                "dallas_county_texas_marriage_records",
+                "dallas_county_texas_vital_records",
+                "dallas_county_tx_marr",
+                "dallas_county_tx_marriage_records",
+                "dallas_county_tx_vital_records",
+                "dallas_county_tx_vitals",
+                "early_dallas_co_(tex)_marriages",
+                "early_dallas_co_texas_marriages",
+                "early_dallas_co_tx_marriages"
+            ],
+            "subject_facet": [
+                "Marriage Records",
+                "Marriage Records of TX",
+                "Marriage Records of Texas",
+                "Southern Heritage",
+                "TX Ancestry",
+                "TX Archives",
+                "TX Brides",
+                "TX Genealogy",
+                "TX Grooms",
+                "TX Marriage Records",
+                "TX Marriages",
+                "TX vital records",
+                "Texas Ancestry",
+                "Texas Archives",
+                "Texas Brides",
+                "Texas Genealogy",
+                "Texas Grooms",
+                "Texas Marriage Records",
+                "Texas Marriages",
+                "Texas vital records",
+                "hfb",
+                "hfbtx",
+                "vital records"
+            ],
+            "_version_": 1795857911201660928,
+            "place_facet": [
+                "*Dallas County Texas Vitals",
+                "Dallas Co (Tex)",
+                "Dallas Co (Tex) Marriages",
+                "Dallas Co TX",
+                "Dallas Co TX Marriages",
+                "Dallas Co Texas",
+                "Dallas Co Texas Marriages",
+                "Dallas County (Tex) Marr",
+                "Dallas County (Tex) Marriage Records",
+                "Dallas County (Tex) Vital Records",
+                "Dallas County (Tex) Vitals",
+                "Dallas County TX Marr",
+                "Dallas County TX Marriage Records",
+                "Dallas County TX Vital Records",
+                "Dallas County TX Vitals",
+                "Dallas County Texas Marr",
+                "Dallas County Texas Marriage Records",
+                "Dallas County Texas Vital Records",
+                "Early Dallas Co (Tex) Marriages",
+                "Early Dallas Co TX Marriages",
+                "Early Dallas Co Texas Marriages"
+            ],
+            "author_facet": [
+                "OL7169059A Dorothy Ledbetter Murray",
+                "OL987399A Nicholas Russell Murray"
+            ],
+            "subject_key": [
+                "hfb",
+                "hfbtx",
+                "marriage_records",
+                "marriage_records_of_texas",
+                "marriage_records_of_tx",
+                "southern_heritage",
+                "texas_ancestry",
+                "texas_archives",
+                "texas_brides",
+                "texas_genealogy",
+                "texas_grooms",
+                "texas_marriage_records",
+                "texas_marriages",
+                "texas_vital_records",
+                "tx_ancestry",
+                "tx_archives",
+                "tx_brides",
+                "tx_genealogy",
+                "tx_grooms",
+                "tx_marriage_records",
+                "tx_marriages",
+                "tx_vital_records",
+                "vital_records"
+            ],
+            "time_key": [
+                "1700s",
+                "1800s",
+                "1875-1954",
+                "19th_century",
+                "early",
+                "early_nineteenth_century_and_early_twentieth_century",
+                "pre_1900",
+                "pre_modern"
+            ]
+        }
+    ],
+    "num_found": 2,
+    "q": "place:dallas,tx",
+    "offset": null
+}
