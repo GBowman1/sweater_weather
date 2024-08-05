@@ -2,7 +2,7 @@ require "rails_helper"
 
 RSpec.describe WeatherFacade do
   it "will return weather data objects" do
-    stub_request(:get, "https://api.weatherapi.com/v1/forecast.json?days=5&key=3c08dc2862914920b26205950240408&q=32.77822,-96.79512").
+    stub_request(:get, "https://api.weatherapi.com/v1/forecast.json?days=5&key=#{Rails.application.credentials.weatherapi[:api_key]}&q=32.77822,-96.79512").
       with(
         headers: {
       'Accept'=>'*/*',
