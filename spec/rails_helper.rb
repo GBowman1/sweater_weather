@@ -2,9 +2,6 @@
 require 'spec_helper'
 require 'simplecov'
 SimpleCov.start
-require 'capybara/rails'
-require 'factory_bot_rails'
-require 'faker'
 ENV['RAILS_ENV'] ||= 'test'
 require_relative '../config/environment'
 # Prevent database truncation if the environment is production
@@ -77,4 +74,7 @@ Shoulda::Matchers.configure do |config|
   end
 end
 
+RSpec.configure do |config|
+  config.include FactoryBot::Syntax::Methods
+end
 require 'webmock/rspec'
