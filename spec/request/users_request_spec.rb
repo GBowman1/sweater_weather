@@ -28,8 +28,6 @@ RSpec.describe 'Users Endpoints', type: :request do
 
       post '/api/v1/users', params: { user: user_params }
 
-      puts response.inspect
-
       expect(response).to_not be_successful
       test = JSON.parse(response.body, symbolize_names: true)
       expect(test[:error][:status]).to eq(400)
