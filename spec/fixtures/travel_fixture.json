@@ -1,0 +1,512 @@
+{
+    "route": {
+        "sessionId": "AJQA_v___wYAAQDNAAAAeNpjOMvAwMTAwMCekVqUapWcK_QnUQbIZahouqfBxfNBOMyK-ztbKIzeDqQ5gTQDFgAzYaZbij6I35oo0cbAU_JHy_qouH84jE4C0r-BNAMOcPD9neu7GYGMcFYBFo4GCSUGRwcBFgcGDZAzFZiQVDIKgCkHCI_JIUEg2kWJAQA-aifRa7B-ew:car",
+        "realTime": 12762,
+        "distance": 257.2278,
+        "time": 12545,
+        "formattedTime": "03:29:05",
+        "hasHighway": true,
+        "hasTollRoad": true,
+        "hasBridge": true,
+        "hasSeasonalClosure": false,
+        "hasTunnel": false,
+        "hasFerry": false,
+        "hasUnpaved": false,
+        "hasTimedRestriction": false,
+        "hasCountryCross": false,
+        "legs": [
+            {
+                "index": 0,
+                "hasTollRoad": true,
+                "hasHighway": true,
+                "hasBridge": true,
+                "hasUnpaved": false,
+                "hasTunnel": false,
+                "hasSeasonalClosure": false,
+                "hasFerry": false,
+                "hasCountryCross": false,
+                "hasTimedRestriction": false,
+                "distance": 257.2278,
+                "time": 12762,
+                "formattedTime": "03:32:42",
+                "origIndex": 0,
+                "origNarrative": "",
+                "destIndex": 0,
+                "destNarrative": "",
+                "maneuvers": [
+                    {
+                        "index": 0,
+                        "distance": 1.9934,
+                        "narrative": "Head toward E Gonzales St on N Austin St (TX-123-BR). Go for 2.0 mi.",
+                        "time": 292,
+                        "direction": 1,
+                        "directionName": "North",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:04:52",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 29.56951,
+                            "lng": -97.964665
+                        },
+                        "turnType": 0,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "TX-123-BR",
+                            "N Austin St"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=ueyGkvQDxgjW2OEtOO1dHqfXKMsHOr8j&size=225,160&locations=29.56951,-97.964665|marker-1||29.59833,-97.96509000000009|marker-2||&center=29.58392,-97.96487750000004&defaultMarker=none&zoom=12&session=AJQA_v___wYAAQDNAAAAeNpjOMvAwMTAwMCekVqUapWcK_QnUQbIZahouqfBxfNBOMyK-ztbKIzeDqQ5gTQDFgAzYaZbij6I35oo0cbAU_JHy_qouH84jE4C0r-BNAMOcPD9neu7GYGMcFYBFo4GCSUGRwcBFgcGDZAzFZiQVDIKgCkHCI_JIUEg2kWJAQA-aifRa7B-ew:car"
+                    },
+                    {
+                        "index": 1,
+                        "distance": 0.11,
+                        "narrative": "Turn right onto I-10 E. Go for 0.1 mi.",
+                        "time": 18,
+                        "direction": 8,
+                        "directionName": "East",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:00:18",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 29.59833,
+                            "lng": -97.96509000000009
+                        },
+                        "turnType": 2,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "I-10 E",
+                            "E Interstate 10"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=ueyGkvQDxgjW2OEtOO1dHqfXKMsHOr8j&size=225,160&locations=29.59833,-97.96509000000009|marker-2||29.598830000000003,-97.96356000000009|marker-3||&center=29.598580000000002,-97.96432500000009&defaultMarker=none&zoom=16&session=AJQA_v___wYAAQDNAAAAeNpjOMvAwMTAwMCekVqUapWcK_QnUQbIZahouqfBxfNBOMyK-ztbKIzeDqQ5gTQDFgAzYaZbij6I35oo0cbAU_JHy_qouH84jE4C0r-BNAMOcPD9neu7GYGMcFYBFo4GCSUGRwcBFgcGDZAzFZiQVDIKgCkHCI_JIUEg2kWJAQA-aifRa7B-ew:car"
+                    },
+                    {
+                        "index": 2,
+                        "distance": 4.7398,
+                        "narrative": "Take left ramp onto I-10 E toward TX-130 N. Go for 4.7 mi.",
+                        "time": 244,
+                        "direction": 8,
+                        "directionName": "East",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:04:04",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 29.598830000000003,
+                            "lng": -97.96356000000009
+                        },
+                        "turnType": 13,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "I-10",
+                            "TX-130"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=ueyGkvQDxgjW2OEtOO1dHqfXKMsHOr8j&size=225,160&locations=29.598830000000003,-97.96356000000009|marker-3||29.60637,-97.88562000000009|marker-4||&center=29.602600000000002,-97.92459000000008&defaultMarker=none&zoom=10&session=AJQA_v___wYAAQDNAAAAeNpjOMvAwMTAwMCekVqUapWcK_QnUQbIZahouqfBxfNBOMyK-ztbKIzeDqQ5gTQDFgAzYaZbij6I35oo0cbAU_JHy_qouH84jE4C0r-BNAMOcPD9neu7GYGMcFYBFo4GCSUGRwcBFgcGDZAzFZiQVDIKgCkHCI_JIUEg2kWJAQA-aifRa7B-ew:car"
+                    },
+                    {
+                        "index": 3,
+                        "distance": 41.1211,
+                        "narrative": "Take exit 614 toward Austin/Waco onto TX-130-TOLL N. Go for 41.1 mi.",
+                        "time": 1877,
+                        "direction": 3,
+                        "directionName": "Northeast",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:31:17",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 29.60637,
+                            "lng": -97.88562000000009
+                        },
+                        "turnType": 14,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "TX-130-TOLL"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=ueyGkvQDxgjW2OEtOO1dHqfXKMsHOr8j&size=225,160&locations=29.60637,-97.88562000000009|marker-4||30.095040000000022,-97.67567|marker-5||&center=29.850705000000012,-97.78064500000005&defaultMarker=none&zoom=7&session=AJQA_v___wYAAQDNAAAAeNpjOMvAwMTAwMCekVqUapWcK_QnUQbIZahouqfBxfNBOMyK-ztbKIzeDqQ5gTQDFgAzYaZbij6I35oo0cbAU_JHy_qouH84jE4C0r-BNAMOcPD9neu7GYGMcFYBFo4GCSUGRwcBFgcGDZAzFZiQVDIKgCkHCI_JIUEg2kWJAQA-aifRa7B-ew:car"
+                    },
+                    {
+                        "index": 4,
+                        "distance": 28.3128,
+                        "narrative": "Continue on TX-45-TOLL N. Go for 28.3 mi.",
+                        "time": 1275,
+                        "direction": 1,
+                        "directionName": "North",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:21:15",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 30.095040000000022,
+                            "lng": -97.67567
+                        },
+                        "turnType": 0,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "TX-45-TOLL",
+                            "TX-130-TOLL"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=ueyGkvQDxgjW2OEtOO1dHqfXKMsHOr8j&size=225,160&locations=30.095040000000022,-97.67567|marker-5||30.464770000000055,-97.59419000000014|marker-6||&center=30.27990500000004,-97.63493000000007&defaultMarker=none&zoom=8&session=AJQA_v___wYAAQDNAAAAeNpjOMvAwMTAwMCekVqUapWcK_QnUQbIZahouqfBxfNBOMyK-ztbKIzeDqQ5gTQDFgAzYaZbij6I35oo0cbAU_JHy_qouH84jE4C0r-BNAMOcPD9neu7GYGMcFYBFo4GCSUGRwcBFgcGDZAzFZiQVDIKgCkHCI_JIUEg2kWJAQA-aifRa7B-ew:car"
+                    },
+                    {
+                        "index": 5,
+                        "distance": 16.4688,
+                        "narrative": "Continue on TX-130-TOLL N toward Waco. Go for 16.5 mi.",
+                        "time": 794,
+                        "direction": 1,
+                        "directionName": "North",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:13:14",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 30.464770000000055,
+                            "lng": -97.59419000000014
+                        },
+                        "turnType": 0,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "TX-130-TOLL"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=ueyGkvQDxgjW2OEtOO1dHqfXKMsHOr8j&size=225,160&locations=30.464770000000055,-97.59419000000014|marker-6||30.67977000000007,-97.65168000000016|marker-7||&center=30.57227000000006,-97.62293500000015&defaultMarker=none&zoom=9&session=AJQA_v___wYAAQDNAAAAeNpjOMvAwMTAwMCekVqUapWcK_QnUQbIZahouqfBxfNBOMyK-ztbKIzeDqQ5gTQDFgAzYaZbij6I35oo0cbAU_JHy_qouH84jE4C0r-BNAMOcPD9neu7GYGMcFYBFo4GCSUGRwcBFgcGDZAzFZiQVDIKgCkHCI_JIUEg2kWJAQA-aifRa7B-ew:car"
+                    },
+                    {
+                        "index": 6,
+                        "distance": 106.1271,
+                        "narrative": "Take the left exit toward Waco onto I-35 N (Purple Heart Trl). Go for 106 mi.",
+                        "time": 5278,
+                        "direction": 1,
+                        "directionName": "North",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "01:27:58",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 30.67977000000007,
+                            "lng": -97.65168000000016
+                        },
+                        "turnType": 15,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "TX-130-TOLL",
+                            "I-35",
+                            "Purple Heart Trl",
+                            "US-190",
+                            "US-77"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=ueyGkvQDxgjW2OEtOO1dHqfXKMsHOr8j&size=225,160&locations=30.67977000000007,-97.65168000000016|marker-7||32.04987000000011,-97.09444999999963|marker-8||&center=31.36482000000009,-97.37306499999988&defaultMarker=none&zoom=6&session=AJQA_v___wYAAQDNAAAAeNpjOMvAwMTAwMCekVqUapWcK_QnUQbIZahouqfBxfNBOMyK-ztbKIzeDqQ5gTQDFgAzYaZbij6I35oo0cbAU_JHy_qouH84jE4C0r-BNAMOcPD9neu7GYGMcFYBFo4GCSUGRwcBFgcGDZAzFZiQVDIKgCkHCI_JIUEg2kWJAQA-aifRa7B-ew:car"
+                    },
+                    {
+                        "index": 7,
+                        "distance": 51.9578,
+                        "narrative": "Keep right onto I-35E N (Purple Heart Trl) toward I-35E/Dallas. Go for 52.0 mi.",
+                        "time": 2538,
+                        "direction": 1,
+                        "directionName": "North",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:42:18",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 32.04987000000011,
+                            "lng": -97.09444999999963
+                        },
+                        "turnType": 16,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "I-35E",
+                            "Purple Heart Trl",
+                            "US-77",
+                            "RL Thornton Fwy",
+                            "S RL Thornton Fwy",
+                            "S R L Thornton Fwy"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=ueyGkvQDxgjW2OEtOO1dHqfXKMsHOr8j&size=225,160&locations=32.04987000000011,-97.09444999999963|marker-8||32.70286000000003,-96.82516999999966|marker-9||&center=32.37636500000007,-96.95980999999964&defaultMarker=none&zoom=7&session=AJQA_v___wYAAQDNAAAAeNpjOMvAwMTAwMCekVqUapWcK_QnUQbIZahouqfBxfNBOMyK-ztbKIzeDqQ5gTQDFgAzYaZbij6I35oo0cbAU_JHy_qouH84jE4C0r-BNAMOcPD9neu7GYGMcFYBFo4GCSUGRwcBFgcGDZAzFZiQVDIKgCkHCI_JIUEg2kWJAQA-aifRa7B-ew:car"
+                    },
+                    {
+                        "index": 8,
+                        "distance": 1.8007,
+                        "narrative": "Keep left onto I-35E N (I-35E Express Ln). Go for 1.8 mi.",
+                        "time": 87,
+                        "direction": 1,
+                        "directionName": "North",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:01:27",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 32.70286000000003,
+                            "lng": -96.82516999999966
+                        },
+                        "turnType": 17,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "I-35E",
+                            "I-35E Express Ln",
+                            "US-67",
+                            "US-77",
+                            "Purple Heart Trl",
+                            "S RL Thornton Fwy"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=ueyGkvQDxgjW2OEtOO1dHqfXKMsHOr8j&size=225,160&locations=32.70286000000003,-96.82516999999966|marker-9||32.72715000000004,-96.82569999999969|marker-10||&center=32.71500500000003,-96.82543499999967&defaultMarker=none&zoom=12&session=AJQA_v___wYAAQDNAAAAeNpjOMvAwMTAwMCekVqUapWcK_QnUQbIZahouqfBxfNBOMyK-ztbKIzeDqQ5gTQDFgAzYaZbij6I35oo0cbAU_JHy_qouH84jE4C0r-BNAMOcPD9neu7GYGMcFYBFo4GCSUGRwcBFgcGDZAzFZiQVDIKgCkHCI_JIUEg2kWJAQA-aifRa7B-ew:car"
+                    },
+                    {
+                        "index": 9,
+                        "distance": 0.471,
+                        "narrative": "Keep right onto I-35E Express Ln. Go for 0.5 mi.",
+                        "time": 23,
+                        "direction": 1,
+                        "directionName": "North",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:00:23",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 32.72715000000004,
+                            "lng": -96.82569999999969
+                        },
+                        "turnType": 16,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "I-35E Express Ln"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=ueyGkvQDxgjW2OEtOO1dHqfXKMsHOr8j&size=225,160&locations=32.72715000000004,-96.82569999999969|marker-10||32.73377000000006,-96.82380999999971|marker-11||&center=32.73046000000005,-96.8247549999997&defaultMarker=none&zoom=14&session=AJQA_v___wYAAQDNAAAAeNpjOMvAwMTAwMCekVqUapWcK_QnUQbIZahouqfBxfNBOMyK-ztbKIzeDqQ5gTQDFgAzYaZbij6I35oo0cbAU_JHy_qouH84jE4C0r-BNAMOcPD9neu7GYGMcFYBFo4GCSUGRwcBFgcGDZAzFZiQVDIKgCkHCI_JIUEg2kWJAQA-aifRa7B-ew:car"
+                    },
+                    {
+                        "index": 10,
+                        "distance": 2.1325,
+                        "narrative": "Continue on I-35E N (Purple Heart Trl). Go for 2.1 mi.",
+                        "time": 117,
+                        "direction": 3,
+                        "directionName": "Northeast",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:01:57",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 32.73377000000006,
+                            "lng": -96.82380999999971
+                        },
+                        "turnType": 0,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "I-35E",
+                            "US-67",
+                            "US-77",
+                            "Purple Heart Trl",
+                            "S RL Thornton Fwy",
+                            "RL Thornton Fwy"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=ueyGkvQDxgjW2OEtOO1dHqfXKMsHOr8j&size=225,160&locations=32.73377000000006,-96.82380999999971|marker-11||32.75885000000007,-96.80913999999973|marker-12||&center=32.746310000000065,-96.81647499999971&defaultMarker=none&zoom=12&session=AJQA_v___wYAAQDNAAAAeNpjOMvAwMTAwMCekVqUapWcK_QnUQbIZahouqfBxfNBOMyK-ztbKIzeDqQ5gTQDFgAzYaZbij6I35oo0cbAU_JHy_qouH84jE4C0r-BNAMOcPD9neu7GYGMcFYBFo4GCSUGRwcBFgcGDZAzFZiQVDIKgCkHCI_JIUEg2kWJAQA-aifRa7B-ew:car"
+                    },
+                    {
+                        "index": 11,
+                        "distance": 1.7075,
+                        "narrative": "Take exit 427A toward I-30 E/Texarkana/I-45/Downtown/US-75/Griffin St onto Cadiz St. Go for 1.7 mi.",
+                        "time": 165,
+                        "direction": 3,
+                        "directionName": "Northeast",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:02:45",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 32.75885000000007,
+                            "lng": -96.80913999999973
+                        },
+                        "turnType": 14,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "Cadiz St"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=ueyGkvQDxgjW2OEtOO1dHqfXKMsHOr8j&size=225,160&locations=32.75885000000007,-96.80913999999973|marker-12||32.77537000000008,-96.79424999999968|marker-13||&center=32.76711000000007,-96.80169499999971&defaultMarker=none&zoom=12&session=AJQA_v___wYAAQDNAAAAeNpjOMvAwMTAwMCekVqUapWcK_QnUQbIZahouqfBxfNBOMyK-ztbKIzeDqQ5gTQDFgAzYaZbij6I35oo0cbAU_JHy_qouH84jE4C0r-BNAMOcPD9neu7GYGMcFYBFo4GCSUGRwcBFgcGDZAzFZiQVDIKgCkHCI_JIUEg2kWJAQA-aifRa7B-ew:car"
+                    },
+                    {
+                        "index": 12,
+                        "distance": 0.2181,
+                        "narrative": "Turn left onto S Ervay St. Go for 0.2 mi.",
+                        "time": 42,
+                        "direction": 2,
+                        "directionName": "Northwest",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:00:42",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 32.77537000000008,
+                            "lng": -96.79424999999968
+                        },
+                        "turnType": 6,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "S Ervay St"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=ueyGkvQDxgjW2OEtOO1dHqfXKMsHOr8j&size=225,160&locations=32.77537000000008,-96.79424999999968|marker-13||32.777960000000085,-96.79621999999968|marker-14||&center=32.77666500000008,-96.79523499999968&defaultMarker=none&zoom=15&session=AJQA_v___wYAAQDNAAAAeNpjOMvAwMTAwMCekVqUapWcK_QnUQbIZahouqfBxfNBOMyK-ztbKIzeDqQ5gTQDFgAzYaZbij6I35oo0cbAU_JHy_qouH84jE4C0r-BNAMOcPD9neu7GYGMcFYBFo4GCSUGRwcBFgcGDZAzFZiQVDIKgCkHCI_JIUEg2kWJAQA-aifRa7B-ew:car"
+                    },
+                    {
+                        "index": 13,
+                        "distance": 0.0671,
+                        "narrative": "Turn right onto Young St. Go for 354 ft.",
+                        "time": 12,
+                        "direction": 8,
+                        "directionName": "East",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:00:12",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 32.777960000000085,
+                            "lng": -96.79621999999968
+                        },
+                        "turnType": 2,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "Young St"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=ueyGkvQDxgjW2OEtOO1dHqfXKMsHOr8j&size=225,160&locations=32.777960000000085,-96.79621999999968|marker-14||32.77822500000009,-96.79512199999968|marker-15||&center=32.778092500000085,-96.79567099999969&defaultMarker=none&zoom=16&session=AJQA_v___wYAAQDNAAAAeNpjOMvAwMTAwMCekVqUapWcK_QnUQbIZahouqfBxfNBOMyK-ztbKIzeDqQ5gTQDFgAzYaZbij6I35oo0cbAU_JHy_qouH84jE4C0r-BNAMOcPD9neu7GYGMcFYBFo4GCSUGRwcBFgcGDZAzFZiQVDIKgCkHCI_JIUEg2kWJAQA-aifRa7B-ew:car"
+                    },
+                    {
+                        "index": 14,
+                        "distance": 0,
+                        "narrative": "Arrive at Young St.",
+                        "time": 0,
+                        "direction": 0,
+                        "directionName": "None",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:00:00",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 32.77822500000009,
+                            "lng": -96.79512199999968
+                        },
+                        "turnType": 0,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": []
+                    }
+                ]
+            }
+        ],
+        "options": {
+            "routeType": "FASTEST",
+            "narrativeType": "text",
+            "enhancedNarrative": false,
+            "walkingSpeed": -1,
+            "highwayEfficiency": 22,
+            "avoids": false,
+            "generalize": -1,
+            "shapeFormat": "raw",
+            "unit": "M",
+            "locale": "en_US",
+            "useTraffic": false,
+            "timeType": 0,
+            "dateType": 0,
+            "doReverseGeocode": true,
+            "manMaps": true,
+            "tollCost": false,
+            "sideOfStreetDisplay": true
+        },
+        "boundingBox": {
+            "ul": {
+                "lat": 32.77822500000009,
+                "lng": -97.96509000000009
+            },
+            "lr": {
+                "lat": 29.56951,
+                "lng": -96.79424999999968
+            }
+        },
+        "name": "I-35 and TX-130-TOLL",
+        "maxRoutes": "",
+        "locations": [
+            {
+                "street": "",
+                "adminArea6": "",
+                "adminArea6Type": "Neighborhood",
+                "adminArea5": "Seguin",
+                "adminArea5Type": "City",
+                "adminArea4": "Guadalupe",
+                "adminArea4Type": "County",
+                "adminArea3": "TX",
+                "adminArea3Type": "State",
+                "adminArea1": "US",
+                "adminArea1Type": "Country",
+                "postalCode": "",
+                "geocodeQualityCode": "A5XAX",
+                "geocodeQuality": "CITY",
+                "dragPoint": false,
+                "sideOfStreet": "N",
+                "linkId": "0",
+                "unknownInput": "",
+                "type": "s",
+                "latLng": {
+                    "lat": 29.56951,
+                    "lng": -97.96466
+                },
+                "displayLatLng": {
+                    "lat": 29.56951,
+                    "lng": -97.96466
+                },
+                "mapUrl": ""
+            },
+            {
+                "street": "",
+                "adminArea6": "",
+                "adminArea6Type": "Neighborhood",
+                "adminArea5": "Dallas",
+                "adminArea5Type": "City",
+                "adminArea4": "Dallas",
+                "adminArea4Type": "County",
+                "adminArea3": "TX",
+                "adminArea3Type": "State",
+                "adminArea1": "US",
+                "adminArea1Type": "Country",
+                "postalCode": "",
+                "geocodeQualityCode": "A5XAX",
+                "geocodeQuality": "CITY",
+                "dragPoint": false,
+                "sideOfStreet": "N",
+                "linkId": "0",
+                "unknownInput": "",
+                "type": "s",
+                "latLng": {
+                    "lat": 32.77822,
+                    "lng": -96.79512
+                },
+                "displayLatLng": {
+                    "lat": 32.77822,
+                    "lng": -96.79512
+                },
+                "mapUrl": ""
+            }
+        ],
+        "locationSequence": [
+            0,
+            1
+        ]
+    },
+    "info": {
+        "statuscode": 0,
+        "copyright": {
+            "text": "© 2024 MapQuest, Inc.",
+            "imageUrl": "http://api.mqcdn.com/res/mqlogo.gif",
+            "imageAltText": "© 2024 MapQuest, Inc."
+        },
+        "messages": []
+    }
+}
