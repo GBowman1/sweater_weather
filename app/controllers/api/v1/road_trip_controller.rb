@@ -4,7 +4,7 @@ class Api::V1::RoadTripController < ApplicationController
       road_trip = RoadTripFacade.create_road_trip(params[:origin], params[:destination])
       render json: RoadTripSerializer.new(road_trip)
     else
-      render json: { error: 'Unauthorized' }, status: 401
+      render json: ErrorSerializer.serialize(ErrorMessage.new("Invalid Key", 401)), status: 401
     end
   end
 end
