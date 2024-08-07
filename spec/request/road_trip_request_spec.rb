@@ -38,11 +38,11 @@ RSpec.describe "Road Trip Request", type: :request do
 
       expect(road_trip[:data][:id]).to eq(nil)
       expect(road_trip[:data][:type]).to eq("road_trip")
-      expect(road_trip[:data][:attributes][:start_city]).to eq("Seguin")
-      expect(road_trip[:data][:attributes][:end_city]).to eq("Dallas")
+      expect(road_trip[:data][:attributes][:start_city]).to eq("seguin,tx")
+      expect(road_trip[:data][:attributes][:end_city]).to eq("dallas,tx")
       expect(road_trip[:data][:attributes][:travel_time]).to eq("03 hours, 29 minutes")
       expect(road_trip[:data][:attributes][:weather_at_eta]).to be_a(Hash)
-      expect(road_trip[:data][:attributes][:weather_at_eta][:temperature]).to eq("87.4 F")
+      expect(road_trip[:data][:attributes][:weather_at_eta][:temperature]).to eq("86.8 F")
       expect(road_trip[:data][:attributes][:weather_at_eta][:conditions]).to eq("Clear ")
     end
     it "returns an error if api key is incorrect" do

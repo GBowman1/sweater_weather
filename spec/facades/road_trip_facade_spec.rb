@@ -12,7 +12,7 @@ RSpec.describe RoadTripFacade do
         'User-Agent'=>'Faraday v2.10.1'
           }).
         to_return(status: 200, body: File.read('spec/fixtures/location_fixture.json'), headers: {})
-        
+
     stub_request(:get, "http://www.mapquestapi.com/directions/v2/route?from=seguin,tx&key=#{Rails.application.credentials.mapquest[:api_key]}&to=dallas,tx").
         with(
           headers: {
@@ -25,8 +25,8 @@ RSpec.describe RoadTripFacade do
     road_trip = RoadTripFacade.create_road_trip("seguin,tx", "dallas,tx")
 
     expect(road_trip).to be_a(RoadTrip)
-    expect(road_trip.start_city).to eq("Seguin")
-    expect(road_trip.end_city).to eq("Dallas")
+    expect(road_trip.start_city).to eq("seguin,tx")
+    expect(road_trip.end_city).to eq("dallas,tx")
     expect(road_trip.travel_time).to eq("03 hours, 29 minutes")
     expect(road_trip.weather_at_eta).to be_a(Hash)
   end

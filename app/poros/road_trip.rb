@@ -1,9 +1,9 @@
 class RoadTrip
   attr_reader :start_city, :end_city, :travel_time, :weather_at_eta
-  def initialize(travel_data, weather)
+  def initialize(travel_data, weather, start_end_points)
     @travel_time = format_time(travel_data)
-    @start_city = travel_data[:route][:locations].first[:adminArea5]
-    @end_city = travel_data[:route][:locations].last[:adminArea5]
+    @start_city = start_end_points[:start_city]
+    @end_city = start_end_points[:end_city]
     @weather_at_eta = find_weather_at_eta(travel_data, weather)
   end
 
